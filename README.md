@@ -1,7 +1,6 @@
 ## 👋 Olá! Eu sou a Ana Paula Marques
 
 💻 Estudante de **Engenharia de Software** | Apaixonada por **tecnologia**, **inovação** e **desenvolvimento com propósito**  
-🌟 Sonho em **ensinar mulheres a programar usando Java**  
 📍 Manaus, AM 🐆 | ☕ Amante de chá gelado | ✝️ Católica por essência
 
 ---
