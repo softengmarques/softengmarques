@@ -1,5 +1,5 @@
 # 👩‍💻 Ana Paula Marques
-**Estudante de Engenharia de Software**
+**Engenharia de Software**
 
 
 🎓 Estudante de **Engenharia de Software** pela **FAMETRO** (4º período), com interesse em computação e desenvolvimento de sistemas.  
