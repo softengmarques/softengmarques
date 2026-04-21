@@ -1,31 +1,50 @@
 # 👩‍💻 Ana Paula Marques
-**Engenharia de Software**
 
+## 🎓 Engenharia de Software
 
 🎓 Estudante de **Engenharia de Software** pela **FAMETRO** (4º período), com interesse em computação e desenvolvimento de sistemas.  
+Apaixonada por tecnologia, aprendizado contínuo e criação de soluções digitais.
 
+---
 
-<div align="center" style="display: inline_block"><br>
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
   <img align="center" alt="JavaScript" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="HTML" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="CSS" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Python" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="C#" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Git" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
+---
+
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente focada nos estudos de **Engenharia de Software**
-- 🌱 Aprendendo **desenvolvimento web, lógica de programação e boas práticas**
-- 👯 Interessada em colaborar em **projetos acadêmicos e projetos iniciais**
-- 💬 Posso ajudar com **HTML, CSS, JavaScript e lógica de programação**
-- ⚡ Curiosidade: gosto de entender como as coisas funcionam, do código à ideia
+- 🎓 Estudante de Engenharia de Software — 4º período  
+- 🔭 Atualmente focada nos estudos de Engenharia de Software  
+- 🌱 Aprendendo desenvolvimento web, lógica de programação e boas práticas  
+- 👯 Interessada em colaborar em projetos acadêmicos e projetos iniciais  
+- 💬 Posso ajudar com HTML, CSS, JavaScript e lógica de programação  
+- ⚡ Curiosidade: gosto de entender como as coisas funcionam, do código à ideia  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/softengmarques">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=softengmarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softengmarques&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
 
 ## 🌎 Contato
 
@@ -43,5 +62,7 @@
   </a>
 </div>
 
+---
 
+✨ "Transformando ideias em soluções através da tecnologia."
 
