@@ -5,25 +5,16 @@
 🎓 Estudante de **Engenharia de Software** pela **FAMETRO** (4º período), com interesse em computação e desenvolvimento de sistemas.  
 Apaixonada por tecnologia, aprendizado contínuo e criação de soluções digitais.
 
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img align="center" alt="JavaScript" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="HTML" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="CSS" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Python" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="C#" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Git" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
----
 
 ## 🚀 Sobre mim
 
@@ -32,9 +23,7 @@ Apaixonada por tecnologia, aprendizado contínuo e criação de soluções digit
 - 🌱 Aprendendo desenvolvimento web, lógica de programação e boas práticas  
 - 👯 Interessada em colaborar em projetos acadêmicos e projetos iniciais  
 - 💬 Posso ajudar com HTML, CSS, JavaScript e lógica de programação  
-- ⚡ Curiosidade: gosto de entender como as coisas funcionam, do código à ideia  
-
----
+- ⚡ Curiosidade: gosto de entender como as coisas funcionam, do código à ideia 
 
 ## 📊 GitHub Stats
 
@@ -43,8 +32,6 @@ Apaixonada por tecnologia, aprendizado contínuo e criação de soluções digit
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=softengmarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softengmarques&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
----
 
 ## 🌎 Contato
 
@@ -62,7 +49,6 @@ Apaixonada por tecnologia, aprendizado contínuo e criação de soluções digit
   </a>
 </div>
 
----
 
 ✨ "Transformando ideias em soluções através da tecnologia."
 
