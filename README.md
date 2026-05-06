@@ -14,14 +14,6 @@ Apaixonada por tecnologia, aprendizado contínuo e criação de soluções digit
 - 💬 Posso ajudar com HTML, CSS, JavaScript e lógica de programação  
 - ⚡ Curiosidade: gosto de entender como as coisas funcionam, do código à ideia 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/softengmarques">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=softengmarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softengmarques&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
 ## 🌎 Contato
 
 <div align="center"> 
